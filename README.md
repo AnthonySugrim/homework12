@@ -21,6 +21,9 @@ Making it easier to view and manage departments, roles and employees in a compan
 ## Installation
 
 Run "npm i" to install dependencies within node.
+
+## Demo
+
 ![DEMO](homework12Demo.gif)
 
 ## Usage
